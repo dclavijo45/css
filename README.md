@@ -1,9 +1,5 @@
 CSS libraries
 =======
-
-
-Components
-=======
 - ```col-row.css``` from [Materialize]
 
 
