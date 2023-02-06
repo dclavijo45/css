@@ -1,10 +1,10 @@
 CSS libraries
 =======
-- ```col-row.css``` from [Materialize]
+- ```responsive.css``` from [Bootstrap]
 
 
 License
 =======
 MIT
 
-[Materialize]: https://materializecss.com
+[Bootstrap]: https://getbootstrap.com
